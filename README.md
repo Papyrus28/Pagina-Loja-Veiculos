@@ -1,8 +1,8 @@
-# Total Motors 🚗🏍️
+Total Motors 
 
 Projeto de uma landing page moderna para uma concessionária fictícia chamada Total Motors. A página apresenta os principais veículos da loja, promoções e um formulário de contato funcional com validação e máscaras de input.
 
-## 🔧 Tecnologias Utilizadas
+Tecnologias Utilizadas
 
 - **HTML5**
 - **CSS3**
@@ -11,7 +11,7 @@ Projeto de uma landing page moderna para uma concessionária fictícia chamada T
 - **jQuery Validate** (validação de formulário)
 - **jQuery Mask** (máscara para telefone)
 
-## 🧩 Funcionalidades
+Funcionalidades
 
 - Carrossel automático de imagens dos veículos em destaque
 - Menu hambúrguer com animação responsiva

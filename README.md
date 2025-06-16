@@ -1,6 +1,25 @@
-Projeto: TOTAL MOTORS 
+# Total Motors 🚗🏍️
 
-Pagina para uma loja de venda de veículos com apresentação de preços e promoções dos mesmos
-Conta com slides de veíclos, menu-hamburguer intereativo e um formulário para se preencher informações em caso de interesse nós veículos 
+Projeto de uma landing page moderna para uma concessionária fictícia chamada Total Motors. A página apresenta os principais veículos da loja, promoções e um formulário de contato funcional com validação e máscaras de input.
 
-Foi usado HTML,CSS e JavaScript junto ao Jquery 
+## 🔧 Tecnologias Utilizadas
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (jQuery)**
+- **Slick Carousel** (para o carrossel de imagens)
+- **jQuery Validate** (validação de formulário)
+- **jQuery Mask** (máscara para telefone)
+
+## 🧩 Funcionalidades
+
+- Carrossel automático de imagens dos veículos em destaque
+- Menu hambúrguer com animação responsiva
+- Seção de produtos com destaque e promoções
+- Botão "Tenho Interesse" que preenche automaticamente o campo de veículo no formulário
+- Validação de formulário com mensagens em português
+- Máscara de telefone no campo de input
+- Layou
+
+Para visualizar melhor acesse o link vercel:
+pagina-loja-veiculos-dgz2m3bgc-pedro-balthazars-projects.vercel.app
